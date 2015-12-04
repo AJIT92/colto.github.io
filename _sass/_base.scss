@@ -320,6 +320,9 @@ header {
 #contact .fa {
     color: $theme-dark;
     font-size: 4em;
+    &:hover {
+        color: #F05F40;
+    }
 }
 
 // Extras
